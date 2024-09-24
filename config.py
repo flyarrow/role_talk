@@ -26,4 +26,5 @@ TXT_FOLDER = "out_txt"
 WAV_FOLDER = "out_wav"
 
 # 测试模式设置
+# 设置测试模式,True为测试模式(只处理A和B各一个文件),False为正常模式(处理所有文件)
 TEST_MODE = False
